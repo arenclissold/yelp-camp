@@ -5,7 +5,7 @@ module.exports = [
     "lng": "151.2094",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "admin",
     "population": "5312163",
     "population_proper": "4840600"
@@ -16,7 +16,7 @@ module.exports = [
     "lng": "144.9631",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "admin",
     "population": "5078193",
     "population_proper": "4529500"
@@ -27,7 +27,7 @@ module.exports = [
     "lng": "153.0281",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "admin",
     "population": "2514184",
     "population_proper": "2360241"
@@ -38,7 +38,7 @@ module.exports = [
     "lng": "115.8589",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "admin",
     "population": "2059484",
     "population_proper": "2039200"
@@ -49,7 +49,7 @@ module.exports = [
     "lng": "138.6011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "admin",
     "population": "1345777",
     "population_proper": "1295714"
@@ -60,7 +60,7 @@ module.exports = [
     "lng": "153.4000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "679127",
     "population_proper": "638090"
@@ -71,7 +71,7 @@ module.exports = [
     "lng": "145.2834",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "460491",
     "population_proper": "39419"
@@ -82,7 +82,7 @@ module.exports = [
     "lng": "149.1269",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Australian Capital Territory",
+    "state": "Australian Capital Territory",
     "capital": "primary",
     "population": "426704",
     "population_proper": "381488"
@@ -93,7 +93,7 @@ module.exports = [
     "lng": "151.7500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "322278",
     "population_proper": "152984"
@@ -104,7 +104,7 @@ module.exports = [
     "lng": "150.8831",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "302739",
     "population_proper": "289236"
@@ -115,7 +115,7 @@ module.exports = [
     "lng": "144.3500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "263280",
     "population_proper": "191440"
@@ -126,7 +126,7 @@ module.exports = [
     "lng": "147.3250",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "admin",
     "population": "240342",
     "population_proper": "222356"
@@ -137,7 +137,7 @@ module.exports = [
     "lng": "146.8183",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "180820",
     "population_proper": "178649"
@@ -148,7 +148,7 @@ module.exports = [
     "lng": "152.7667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "163000",
     "population_proper": "163000"
@@ -159,7 +159,7 @@ module.exports = [
     "lng": "145.7703",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "152729",
     "population_proper": "146778"
@@ -170,7 +170,7 @@ module.exports = [
     "lng": "151.9500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "136861",
     "population_proper": "135631"
@@ -181,7 +181,7 @@ module.exports = [
     "lng": "130.8411",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Northern Territory",
+    "state": "Northern Territory",
     "capital": "admin",
     "population": "136828",
     "population_proper": "136828"
@@ -192,7 +192,7 @@ module.exports = [
     "lng": "143.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "105471",
     "population_proper": "98543"
@@ -203,7 +203,7 @@ module.exports = [
     "lng": "144.2667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "99122",
     "population_proper": "95587"
@@ -214,7 +214,7 @@ module.exports = [
     "lng": "147.1450",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "87328",
     "population_proper": "87328"
@@ -225,7 +225,7 @@ module.exports = [
     "lng": "149.1861",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "80148",
     "population_proper": "3659"
@@ -236,7 +236,7 @@ module.exports = [
     "lng": "150.5117",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "78592",
     "population_proper": "78592"
@@ -247,7 +247,7 @@ module.exports = [
     "lng": "151.5500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "78015",
     "population_proper": "1885"
@@ -258,7 +258,7 @@ module.exports = [
     "lng": "115.6333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "74363",
     "population_proper": "71090"
@@ -269,7 +269,7 @@ module.exports = [
     "lng": "153.1189",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "71822",
     "population_proper": "25752"
@@ -280,7 +280,7 @@ module.exports = [
     "lng": "152.3500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "70921",
     "population_proper": "70540"
@@ -291,7 +291,7 @@ module.exports = [
     "lng": "147.3689",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "56442",
     "population_proper": "54411"
@@ -302,7 +302,7 @@ module.exports = [
     "lng": "152.8728",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "54674",
     "population_proper": "54674"
@@ -313,7 +313,7 @@ module.exports = [
     "lng": "145.4000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "51631",
     "population_proper": "31197"
@@ -324,7 +324,7 @@ module.exports = [
     "lng": "146.9158",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "47974",
     "population_proper": "4804"
@@ -335,7 +335,7 @@ module.exports = [
     "lng": "152.9000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "47973",
     "population_proper": "44830"
@@ -346,7 +346,7 @@ module.exports = [
     "lng": "145.4878",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "46421",
     "population_proper": "46421"
@@ -357,7 +357,7 @@ module.exports = [
     "lng": "150.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "42872",
     "population_proper": "180"
@@ -368,7 +368,7 @@ module.exports = [
     "lng": "153.1289",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "41293",
     "population_proper": "41293"
@@ -379,7 +379,7 @@ module.exports = [
     "lng": "149.1000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "40493",
     "population_proper": "38097"
@@ -390,7 +390,7 @@ module.exports = [
     "lng": "148.6011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "38392",
     "population_proper": "38392"
@@ -401,7 +401,7 @@ module.exports = [
     "lng": "114.6089",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "37648",
     "population_proper": "37648"
@@ -412,7 +412,7 @@ module.exports = [
     "lng": "150.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "37420",
     "population_proper": "9193"
@@ -423,7 +423,7 @@ module.exports = [
     "lng": "149.5778",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "36801",
     "population_proper": "35020"
@@ -434,7 +434,7 @@ module.exports = [
     "lng": "149.2342",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "36348",
     "population_proper": "6237"
@@ -445,7 +445,7 @@ module.exports = [
     "lng": "145.1350",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "36097",
     "population_proper": "36097"
@@ -456,7 +456,7 @@ module.exports = [
     "lng": "144.7139",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "36084",
     "population_proper": "36084"
@@ -467,7 +467,7 @@ module.exports = [
     "lng": "142.4833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "35214",
     "population_proper": "29661"
@@ -478,7 +478,7 @@ module.exports = [
     "lng": "146.8881",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "35130",
     "population_proper": "18948"
@@ -489,7 +489,7 @@ module.exports = [
     "lng": "117.8814",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "34205",
     "population_proper": "29373"
@@ -500,7 +500,7 @@ module.exports = [
     "lng": "151.2625",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "33418",
     "population_proper": "33418"
@@ -511,7 +511,7 @@ module.exports = [
     "lng": "142.1583",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "32738",
     "population_proper": "32738"
@@ -522,7 +522,7 @@ module.exports = [
     "lng": "153.4000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "31908",
     "population_proper": "31908"
@@ -533,7 +533,7 @@ module.exports = [
     "lng": "133.8667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Northern Territory",
+    "state": "Northern Territory",
     "capital": "",
     "population": "31120",
     "population_proper": "31120"
@@ -544,7 +544,7 @@ module.exports = [
     "lng": "145.2150",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "29906",
     "population_proper": "29906"
@@ -555,7 +555,7 @@ module.exports = [
     "lng": "121.4658",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "29849",
     "population_proper": "29849"
@@ -566,7 +566,7 @@ module.exports = [
     "lng": "140.7828",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "29639",
     "population_proper": "25512"
@@ -577,7 +577,7 @@ module.exports = [
     "lng": "153.2833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "28720",
     "population_proper": "3579"
@@ -588,7 +588,7 @@ module.exports = [
     "lng": "152.7019",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "27282",
     "population_proper": "15406"
@@ -599,7 +599,7 @@ module.exports = [
     "lng": "150.8789",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "27080",
     "population_proper": "27080"
@@ -610,7 +610,7 @@ module.exports = [
     "lng": "138.7450",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "26472",
     "population_proper": "942"
@@ -621,7 +621,7 @@ module.exports = [
     "lng": "152.9670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "26433",
     "population_proper": "26433"
@@ -632,7 +632,7 @@ module.exports = [
     "lng": "153.5333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "26381",
     "population_proper": "8655"
@@ -643,7 +643,7 @@ module.exports = [
     "lng": "152.4500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "26381",
     "population_proper": "16197"
@@ -654,7 +654,7 @@ module.exports = [
     "lng": "146.5403",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "25485",
     "population_proper": "24933"
@@ -665,7 +665,7 @@ module.exports = [
     "lng": "115.3458",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "25329",
     "population_proper": "25329"
@@ -676,7 +676,7 @@ module.exports = [
     "lng": "151.6500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "24504",
     "population_proper": "24504"
@@ -687,7 +687,7 @@ module.exports = [
     "lng": "149.6186",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "23835",
     "population_proper": "22419"
@@ -698,7 +698,7 @@ module.exports = [
     "lng": "146.3464",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "23046",
     "population_proper": "23046"
@@ -709,7 +709,7 @@ module.exports = [
     "lng": "144.4389",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "22223",
     "population_proper": "6394"
@@ -720,7 +720,7 @@ module.exports = [
     "lng": "137.5667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "21742",
     "population_proper": "21742"
@@ -731,7 +731,7 @@ module.exports = [
     "lng": "151.3555",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "21725",
     "population_proper": "15177"
@@ -742,7 +742,7 @@ module.exports = [
     "lng": "152.6655",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "21599",
     "population_proper": "10803"
@@ -753,7 +753,7 @@ module.exports = [
     "lng": "146.0400",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "20251",
     "population_proper": "18196"
@@ -764,7 +764,7 @@ module.exports = [
     "lng": "115.7702",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "20086",
     "population_proper": "17549"
@@ -775,7 +775,7 @@ module.exports = [
     "lng": "145.8753",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "19385",
     "population_proper": "19385"
@@ -786,7 +786,7 @@ module.exports = [
     "lng": "146.3125",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "19318",
     "population_proper": "17377"
@@ -797,7 +797,7 @@ module.exports = [
     "lng": "152.9333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "19078",
     "population_proper": "10408"
@@ -808,7 +808,7 @@ module.exports = [
     "lng": "150.7333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "19003",
     "population_proper": "6334"
@@ -819,7 +819,7 @@ module.exports = [
     "lng": "139.2670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "18779",
     "population_proper": "14560"
@@ -830,7 +830,7 @@ module.exports = [
     "lng": "139.5000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "18588",
     "population_proper": "118"
@@ -841,7 +841,7 @@ module.exports = [
     "lng": "152.9655",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "18573",
     "population_proper": "18573"
@@ -852,7 +852,7 @@ module.exports = [
     "lng": "145.0920",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "17888",
     "population_proper": "17888"
@@ -863,7 +863,7 @@ module.exports = [
     "lng": "141.4678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "17734",
     "population_proper": "17734"
@@ -874,7 +874,7 @@ module.exports = [
     "lng": "153.3220",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "16864",
     "population_proper": "16864"
@@ -885,7 +885,7 @@ module.exports = [
     "lng": "116.8464",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "16708",
     "population_proper": "16708"
@@ -896,7 +896,7 @@ module.exports = [
     "lng": "138.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "16629",
     "population_proper": "13842"
@@ -907,7 +907,7 @@ module.exports = [
     "lng": "142.2000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "16514",
     "population_proper": "14543"
@@ -918,7 +918,7 @@ module.exports = [
     "lng": "144.4167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "16355",
     "population_proper": "16355"
@@ -929,7 +929,7 @@ module.exports = [
     "lng": "151.1697",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "16346",
     "population_proper": "5000"
@@ -940,7 +940,7 @@ module.exports = [
     "lng": "135.8586",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "16326",
     "population_proper": "14120"
@@ -951,7 +951,7 @@ module.exports = [
     "lng": "153.5386",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "16167",
     "population_proper": "16167"
@@ -962,7 +962,7 @@ module.exports = [
     "lng": "152.0352",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "15380",
     "population_proper": "12222"
@@ -973,7 +973,7 @@ module.exports = [
     "lng": "153.1233",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "15317",
     "population_proper": "15317"
@@ -984,7 +984,7 @@ module.exports = [
     "lng": "152.8333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "15309",
     "population_proper": "474"
@@ -995,7 +995,7 @@ module.exports = [
     "lng": "150.4678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "15278",
     "population_proper": "15278"
@@ -1006,7 +1006,7 @@ module.exports = [
     "lng": "147.0667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "15135",
     "population_proper": "13673"
@@ -1017,7 +1017,7 @@ module.exports = [
     "lng": "144.7500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "14934",
     "population_proper": "14043"
@@ -1028,7 +1028,7 @@ module.exports = [
     "lng": "115.7260",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "14539",
     "population_proper": "14539"
@@ -1039,7 +1039,7 @@ module.exports = [
     "lng": "122.2361",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "14445",
     "population_proper": "4042"
@@ -1050,7 +1050,7 @@ module.exports = [
     "lng": "118.6011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "14320",
     "population_proper": "4180"
@@ -1061,7 +1061,7 @@ module.exports = [
     "lng": "145.9333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "14276",
     "population_proper": "14276"
@@ -1072,7 +1072,7 @@ module.exports = [
     "lng": "138.0169",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "14188",
     "population_proper": "195"
@@ -1083,7 +1083,7 @@ module.exports = [
     "lng": "144.5167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "14165",
     "population_proper": "14165"
@@ -1094,7 +1094,7 @@ module.exports = [
     "lng": "148.1500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "14119",
     "population_proper": "14119"
@@ -1105,7 +1105,7 @@ module.exports = [
     "lng": "146.1667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "14109",
     "population_proper": "14109"
@@ -1116,7 +1116,7 @@ module.exports = [
     "lng": "146.4000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "14026",
     "population_proper": "13771"
@@ -1127,7 +1127,7 @@ module.exports = [
     "lng": "144.5889",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "13963",
     "population_proper": "8999"
@@ -1138,7 +1138,7 @@ module.exports = [
     "lng": "137.7658",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "13799",
     "population_proper": "6562"
@@ -1149,7 +1149,7 @@ module.exports = [
     "lng": "152.5117",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "13740",
     "population_proper": "13740"
@@ -1160,7 +1160,7 @@ module.exports = [
     "lng": "150.6942",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "13295",
     "population_proper": "13295"
@@ -1171,7 +1171,7 @@ module.exports = [
     "lng": "144.3167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "13258",
     "population_proper": "13258"
@@ -1182,7 +1182,7 @@ module.exports = [
     "lng": "153.0333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "13201",
     "population_proper": "13201"
@@ -1193,7 +1193,7 @@ module.exports = [
     "lng": "150.1500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12973",
     "population_proper": "5201"
@@ -1204,7 +1204,7 @@ module.exports = [
     "lng": "150.4181",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12949",
     "population_proper": "10335"
@@ -1215,7 +1215,7 @@ module.exports = [
     "lng": "153.3178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12900",
     "population_proper": "12900"
@@ -1226,7 +1226,7 @@ module.exports = [
     "lng": "151.7441",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12820",
     "population_proper": "12820"
@@ -1237,7 +1237,7 @@ module.exports = [
     "lng": "144.4644",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "12814",
     "population_proper": "12814"
@@ -1248,7 +1248,7 @@ module.exports = [
     "lng": "151.2667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "12719",
     "population_proper": "12719"
@@ -1259,7 +1259,7 @@ module.exports = [
     "lng": "150.8261",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12566",
     "population_proper": "12566"
@@ -1270,7 +1270,7 @@ module.exports = [
     "lng": "143.5847",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "12547",
     "population_proper": "9048"
@@ -1281,7 +1281,7 @@ module.exports = [
     "lng": "150.8885",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "12364",
     "population_proper": "12075"
@@ -1292,7 +1292,7 @@ module.exports = [
     "lng": "121.8919",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "12145",
     "population_proper": "2144"
@@ -1303,7 +1303,7 @@ module.exports = [
     "lng": "145.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "11887",
     "population_proper": "11887"
@@ -1314,7 +1314,7 @@ module.exports = [
     "lng": "151.5317",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "11884",
     "population_proper": "11884"
@@ -1325,7 +1325,7 @@ module.exports = [
     "lng": "152.1511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "11820",
     "population_proper": "11820"
@@ -1336,7 +1336,7 @@ module.exports = [
     "lng": "151.1167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "11660",
     "population_proper": "11660"
@@ -1347,7 +1347,7 @@ module.exports = [
     "lng": "148.2628",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "11408",
     "population_proper": "11408"
@@ -1358,7 +1358,7 @@ module.exports = [
     "lng": "145.1770",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "11336",
     "population_proper": "11336"
@@ -1369,7 +1369,7 @@ module.exports = [
     "lng": "150.4500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "11315",
     "population_proper": "11315"
@@ -1380,7 +1380,7 @@ module.exports = [
     "lng": "150.1744",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "11294",
     "population_proper": "1530"
@@ -1391,7 +1391,7 @@ module.exports = [
     "lng": "152.9592",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "11187",
     "population_proper": "11187"
@@ -1402,7 +1402,7 @@ module.exports = [
     "lng": "143.5500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "11103",
     "population_proper": "9864"
@@ -1413,7 +1413,7 @@ module.exports = [
     "lng": "145.4167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "11079",
     "population_proper": "11079"
@@ -1424,7 +1424,7 @@ module.exports = [
     "lng": "153.1000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "11019",
     "population_proper": "11019"
@@ -1435,7 +1435,7 @@ module.exports = [
     "lng": "152.8833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "10931",
     "population_proper": "796"
@@ -1446,7 +1446,7 @@ module.exports = [
     "lng": "149.5872",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "10923",
     "population_proper": "10923"
@@ -1457,7 +1457,7 @@ module.exports = [
     "lng": "153.0511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "10914",
     "population_proper": "10914"
@@ -1468,7 +1468,7 @@ module.exports = [
     "lng": "141.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "10900",
     "population_proper": "9712"
@@ -1479,7 +1479,7 @@ module.exports = [
     "lng": "147.3083",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "10409",
     "population_proper": "10409"
@@ -1490,7 +1490,7 @@ module.exports = [
     "lng": "151.8333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "10398",
     "population_proper": "10020"
@@ -1501,7 +1501,7 @@ module.exports = [
     "lng": "144.2500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "10394",
     "population_proper": "10394"
@@ -1512,7 +1512,7 @@ module.exports = [
     "lng": "148.2333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "10377",
     "population_proper": "10377"
@@ -1523,7 +1523,7 @@ module.exports = [
     "lng": "148.3000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "10295",
     "population_proper": "10295"
@@ -1534,7 +1534,7 @@ module.exports = [
     "lng": "148.6578",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "10063",
     "population_proper": "10063"
@@ -1545,7 +1545,7 @@ module.exports = [
     "lng": "142.0167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "9974",
     "population_proper": "9974"
@@ -1556,7 +1556,7 @@ module.exports = [
     "lng": "150.2500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "9726",
     "population_proper": "9726"
@@ -1567,7 +1567,7 @@ module.exports = [
     "lng": "145.3833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "9702",
     "population_proper": "9702"
@@ -1578,7 +1578,7 @@ module.exports = [
     "lng": "149.1860",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "9419",
     "population_proper": "9419"
@@ -1589,7 +1589,7 @@ module.exports = [
     "lng": "149.8344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "9311",
     "population_proper": "9311"
@@ -1600,7 +1600,7 @@ module.exports = [
     "lng": "145.9817",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "9298",
     "population_proper": "9298"
@@ -1611,7 +1611,7 @@ module.exports = [
     "lng": "153.4690",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "9121",
     "population_proper": "9121"
@@ -1622,7 +1622,7 @@ module.exports = [
     "lng": "145.0330",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "9060",
     "population_proper": "9060"
@@ -1633,7 +1633,7 @@ module.exports = [
     "lng": "150.4500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8999",
     "population_proper": "5767"
@@ -1644,7 +1644,7 @@ module.exports = [
     "lng": "149.6056",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8968",
     "population_proper": "8968"
@@ -1655,7 +1655,7 @@ module.exports = [
     "lng": "115.6340",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "8868",
     "population_proper": "8868"
@@ -1666,7 +1666,7 @@ module.exports = [
     "lng": "115.9240",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "8782",
     "population_proper": "8782"
@@ -1677,7 +1677,7 @@ module.exports = [
     "lng": "146.2678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8778",
     "population_proper": "8778"
@@ -1688,7 +1688,7 @@ module.exports = [
     "lng": "147.4066",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "8738",
     "population_proper": "8738"
@@ -1699,7 +1699,7 @@ module.exports = [
     "lng": "148.0533",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "8735",
     "population_proper": "8735"
@@ -1710,7 +1710,7 @@ module.exports = [
     "lng": "146.4011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8623",
     "population_proper": "8623"
@@ -1721,7 +1721,7 @@ module.exports = [
     "lng": "150.3678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8579",
     "population_proper": "8579"
@@ -1732,7 +1732,7 @@ module.exports = [
     "lng": "144.9833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8520",
     "population_proper": "8504"
@@ -1743,7 +1743,7 @@ module.exports = [
     "lng": "150.5683",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8475",
     "population_proper": "8475"
@@ -1754,7 +1754,7 @@ module.exports = [
     "lng": "116.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "8437",
     "population_proper": "8437"
@@ -1765,7 +1765,7 @@ module.exports = [
     "lng": "148.0167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8432",
     "population_proper": "8432"
@@ -1776,7 +1776,7 @@ module.exports = [
     "lng": "150.6678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8421",
     "population_proper": "8421"
@@ -1787,7 +1787,7 @@ module.exports = [
     "lng": "144.8380",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8416",
     "population_proper": "8416"
@@ -1798,7 +1798,7 @@ module.exports = [
     "lng": "144.4370",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8372",
     "population_proper": "8372"
@@ -1809,7 +1809,7 @@ module.exports = [
     "lng": "142.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8300",
     "population_proper": "8297"
@@ -1820,7 +1820,7 @@ module.exports = [
     "lng": "153.5500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "8176",
     "population_proper": "8176"
@@ -1831,7 +1831,7 @@ module.exports = [
     "lng": "151.9492",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "8131",
     "population_proper": "8131"
@@ -1842,7 +1842,7 @@ module.exports = [
     "lng": "146.2667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "8120",
     "population_proper": "8120"
@@ -1853,7 +1853,7 @@ module.exports = [
     "lng": "144.5833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "8069",
     "population_proper": "8069"
@@ -1864,7 +1864,7 @@ module.exports = [
     "lng": "150.3120",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7964",
     "population_proper": "7964"
@@ -1875,7 +1875,7 @@ module.exports = [
     "lng": "144.9500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7958",
     "population_proper": "7958"
@@ -1886,7 +1886,7 @@ module.exports = [
     "lng": "145.3500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7942",
     "population_proper": "7942"
@@ -1897,7 +1897,7 @@ module.exports = [
     "lng": "146.0000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7930",
     "population_proper": "7930"
@@ -1908,7 +1908,7 @@ module.exports = [
     "lng": "143.7350",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7921",
     "population_proper": "7921"
@@ -1919,7 +1919,7 @@ module.exports = [
     "lng": "144.9344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7862",
     "population_proper": "7862"
@@ -1930,7 +1930,7 @@ module.exports = [
     "lng": "115.7231",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "7837",
     "population_proper": "7837"
@@ -1941,7 +1941,7 @@ module.exports = [
     "lng": "153.0370",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7801",
     "population_proper": "7801"
@@ -1952,7 +1952,7 @@ module.exports = [
     "lng": "150.8542",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7700",
     "population_proper": "6881"
@@ -1963,7 +1963,7 @@ module.exports = [
     "lng": "145.3167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7674",
     "population_proper": "7674"
@@ -1974,7 +1974,7 @@ module.exports = [
     "lng": "149.7678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7606",
     "population_proper": "7606"
@@ -1985,7 +1985,7 @@ module.exports = [
     "lng": "147.6167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7580",
     "population_proper": "7580"
@@ -1996,7 +1996,7 @@ module.exports = [
     "lng": "144.5667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7519",
     "population_proper": "7519"
@@ -2007,7 +2007,7 @@ module.exports = [
     "lng": "153.1992",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7506",
     "population_proper": "7506"
@@ -2018,7 +2018,7 @@ module.exports = [
     "lng": "152.4625",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7485",
     "population_proper": "7485"
@@ -2029,7 +2029,7 @@ module.exports = [
     "lng": "153.5781",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7464",
     "population_proper": "7464"
@@ -2040,7 +2040,7 @@ module.exports = [
     "lng": "145.5139",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7461",
     "population_proper": "7461"
@@ -2051,7 +2051,7 @@ module.exports = [
     "lng": "115.7439",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "7459",
     "population_proper": "7459"
@@ -2062,7 +2062,7 @@ module.exports = [
     "lng": "150.6175",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7451",
     "population_proper": "7451"
@@ -2073,7 +2073,7 @@ module.exports = [
     "lng": "145.4780",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7331",
     "population_proper": "7331"
@@ -2084,7 +2084,7 @@ module.exports = [
     "lng": "145.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "7321",
     "population_proper": "7321"
@@ -2095,7 +2095,7 @@ module.exports = [
     "lng": "146.0292",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7236",
     "population_proper": "1145"
@@ -2106,7 +2106,7 @@ module.exports = [
     "lng": "150.6267",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7225",
     "population_proper": "7225"
@@ -2117,7 +2117,7 @@ module.exports = [
     "lng": "116.1560",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "7192",
     "population_proper": "7192"
@@ -2128,7 +2128,7 @@ module.exports = [
     "lng": "152.2755",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "7101",
     "population_proper": "7101"
@@ -2139,7 +2139,7 @@ module.exports = [
     "lng": "153.3667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7071",
     "population_proper": "7071"
@@ -2150,7 +2150,7 @@ module.exports = [
     "lng": "153.3833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "7032",
     "population_proper": "7032"
@@ -2161,7 +2161,7 @@ module.exports = [
     "lng": "152.8219",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6969",
     "population_proper": "6969"
@@ -2172,7 +2172,7 @@ module.exports = [
     "lng": "144.4500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6951",
     "population_proper": "6951"
@@ -2183,7 +2183,7 @@ module.exports = [
     "lng": "153.1633",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6947",
     "population_proper": "6947"
@@ -2194,7 +2194,7 @@ module.exports = [
     "lng": "148.7869",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6848",
     "population_proper": "6848"
@@ -2205,7 +2205,7 @@ module.exports = [
     "lng": "153.2210",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6835",
     "population_proper": "6835"
@@ -2216,7 +2216,7 @@ module.exports = [
     "lng": "148.0344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6782",
     "population_proper": "6782"
@@ -2227,7 +2227,7 @@ module.exports = [
     "lng": "152.9600",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6769",
     "population_proper": "6769"
@@ -2238,7 +2238,7 @@ module.exports = [
     "lng": "144.2172",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6757",
     "population_proper": "6757"
@@ -2249,7 +2249,7 @@ module.exports = [
     "lng": "153.5608",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6704",
     "population_proper": "6704"
@@ -2260,7 +2260,7 @@ module.exports = [
     "lng": "149.1258",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6681",
     "population_proper": "6681"
@@ -2271,7 +2271,7 @@ module.exports = [
     "lng": "145.7866",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6671",
     "population_proper": "6671"
@@ -2282,7 +2282,7 @@ module.exports = [
     "lng": "145.3000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6663",
     "population_proper": "6663"
@@ -2293,7 +2293,7 @@ module.exports = [
     "lng": "150.6050",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6661",
     "population_proper": "6661"
@@ -2304,7 +2304,7 @@ module.exports = [
     "lng": "150.6250",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6612",
     "population_proper": "6612"
@@ -2315,7 +2315,7 @@ module.exports = [
     "lng": "116.6661",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "6548",
     "population_proper": "6548"
@@ -2326,7 +2326,7 @@ module.exports = [
     "lng": "148.9136",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6506",
     "population_proper": "6506"
@@ -2337,7 +2337,7 @@ module.exports = [
     "lng": "138.9000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "6504",
     "population_proper": "6504"
@@ -2348,7 +2348,7 @@ module.exports = [
     "lng": "153.0000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6433",
     "population_proper": "6433"
@@ -2359,7 +2359,7 @@ module.exports = [
     "lng": "153.1330",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6431",
     "population_proper": "6431"
@@ -2370,7 +2370,7 @@ module.exports = [
     "lng": "153.5844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6407",
     "population_proper": "6407"
@@ -2381,7 +2381,7 @@ module.exports = [
     "lng": "152.9958",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6395",
     "population_proper": "6395"
@@ -2392,7 +2392,7 @@ module.exports = [
     "lng": "115.0750",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "6392",
     "population_proper": "6392"
@@ -2403,7 +2403,7 @@ module.exports = [
     "lng": "151.0000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6383",
     "population_proper": "6383"
@@ -2414,7 +2414,7 @@ module.exports = [
     "lng": "150.3097",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "6355",
     "population_proper": "6355"
@@ -2425,7 +2425,7 @@ module.exports = [
     "lng": "145.1300",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6327",
     "population_proper": "6327"
@@ -2436,7 +2436,7 @@ module.exports = [
     "lng": "152.9906",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6327",
     "population_proper": "6327"
@@ -2447,7 +2447,7 @@ module.exports = [
     "lng": "138.9833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "6314",
     "population_proper": "6314"
@@ -2458,7 +2458,7 @@ module.exports = [
     "lng": "152.7344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6312",
     "population_proper": "6312"
@@ -2469,7 +2469,7 @@ module.exports = [
     "lng": "148.2233",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6230",
     "population_proper": "6230"
@@ -2480,7 +2480,7 @@ module.exports = [
     "lng": "152.4989",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6186",
     "population_proper": "6186"
@@ -2491,7 +2491,7 @@ module.exports = [
     "lng": "151.7361",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6155",
     "population_proper": "6155"
@@ -2502,7 +2502,7 @@ module.exports = [
     "lng": "153.3500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6076",
     "population_proper": "6076"
@@ -2513,7 +2513,7 @@ module.exports = [
     "lng": "150.3772",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6076",
     "population_proper": "6076"
@@ -2524,7 +2524,7 @@ module.exports = [
     "lng": "152.9344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6068",
     "population_proper": "6068"
@@ -2535,7 +2535,7 @@ module.exports = [
     "lng": "151.4833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "6044",
     "population_proper": "6044"
@@ -2546,7 +2546,7 @@ module.exports = [
     "lng": "142.7667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6032",
     "population_proper": "5736"
@@ -2557,7 +2557,7 @@ module.exports = [
     "lng": "145.6500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "6014",
     "population_proper": "6014"
@@ -2568,7 +2568,7 @@ module.exports = [
     "lng": "145.7167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "6001",
     "population_proper": "6001"
@@ -2579,7 +2579,7 @@ module.exports = [
     "lng": "140.7429",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "5960",
     "population_proper": "5960"
@@ -2590,7 +2590,7 @@ module.exports = [
     "lng": "149.1783",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5933",
     "population_proper": "5933"
@@ -2601,7 +2601,7 @@ module.exports = [
     "lng": "115.9500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "5929",
     "population_proper": "5929"
@@ -2612,7 +2612,7 @@ module.exports = [
     "lng": "144.5260",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5806",
     "population_proper": "5806"
@@ -2623,7 +2623,7 @@ module.exports = [
     "lng": "144.9650",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5803",
     "population_proper": "5803"
@@ -2634,7 +2634,7 @@ module.exports = [
     "lng": "145.4370",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5778",
     "population_proper": "5778"
@@ -2645,7 +2645,7 @@ module.exports = [
     "lng": "150.5133",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5758",
     "population_proper": "5758"
@@ -2656,7 +2656,7 @@ module.exports = [
     "lng": "153.4344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5739",
     "population_proper": "5739"
@@ -2667,7 +2667,7 @@ module.exports = [
     "lng": "148.6866",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5716",
     "population_proper": "5716"
@@ -2678,7 +2678,7 @@ module.exports = [
     "lng": "152.8177",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5699",
     "population_proper": "5699"
@@ -2689,7 +2689,7 @@ module.exports = [
     "lng": "152.9597",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5676",
     "population_proper": "5676"
@@ -2700,7 +2700,7 @@ module.exports = [
     "lng": "150.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5624",
     "population_proper": "5624"
@@ -2711,7 +2711,7 @@ module.exports = [
     "lng": "145.1140",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5611",
     "population_proper": "5611"
@@ -2722,7 +2722,7 @@ module.exports = [
     "lng": "153.5872",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5571",
     "population_proper": "5571"
@@ -2733,7 +2733,7 @@ module.exports = [
     "lng": "149.2175",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5522",
     "population_proper": "5522"
@@ -2744,7 +2744,7 @@ module.exports = [
     "lng": "153.6178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5521",
     "population_proper": "5521"
@@ -2755,7 +2755,7 @@ module.exports = [
     "lng": "146.3844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5482",
     "population_proper": "5482"
@@ -2766,7 +2766,7 @@ module.exports = [
     "lng": "150.7511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5482",
     "population_proper": "5482"
@@ -2777,7 +2777,7 @@ module.exports = [
     "lng": "151.4510",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5449",
     "population_proper": "5449"
@@ -2788,7 +2788,7 @@ module.exports = [
     "lng": "116.0300",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "5448",
     "population_proper": "5448"
@@ -2799,7 +2799,7 @@ module.exports = [
     "lng": "145.7278",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5437",
     "population_proper": "5437"
@@ -2810,7 +2810,7 @@ module.exports = [
     "lng": "147.0594",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "5432",
     "population_proper": "5432"
@@ -2821,7 +2821,7 @@ module.exports = [
     "lng": "151.9350",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5406",
     "population_proper": "5406"
@@ -2832,7 +2832,7 @@ module.exports = [
     "lng": "152.3670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5374",
     "population_proper": "5374"
@@ -2843,7 +2843,7 @@ module.exports = [
     "lng": "142.1667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5325",
     "population_proper": "5325"
@@ -2854,7 +2854,7 @@ module.exports = [
     "lng": "115.1000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "5320",
     "population_proper": "5320"
@@ -2865,7 +2865,7 @@ module.exports = [
     "lng": "128.7386",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "5308",
     "population_proper": "5308"
@@ -2876,7 +2876,7 @@ module.exports = [
     "lng": "145.6910",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5303",
     "population_proper": "5303"
@@ -2887,7 +2887,7 @@ module.exports = [
     "lng": "153.2011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5290",
     "population_proper": "5290"
@@ -2898,7 +2898,7 @@ module.exports = [
     "lng": "144.1667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5283",
     "population_proper": "5283"
@@ -2909,7 +2909,7 @@ module.exports = [
     "lng": "146.9830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5280",
     "population_proper": "5280"
@@ -2920,7 +2920,7 @@ module.exports = [
     "lng": "151.3675",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "5145",
     "population_proper": "5145"
@@ -2931,7 +2931,7 @@ module.exports = [
     "lng": "153.5375",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5137",
     "population_proper": "5137"
@@ -2942,7 +2942,7 @@ module.exports = [
     "lng": "131.0530",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Northern Territory",
+    "state": "Northern Territory",
     "capital": "",
     "population": "5132",
     "population_proper": "5132"
@@ -2953,7 +2953,7 @@ module.exports = [
     "lng": "145.9500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5119",
     "population_proper": "5119"
@@ -2964,7 +2964,7 @@ module.exports = [
     "lng": "150.6386",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5068",
     "population_proper": "5068"
@@ -2975,7 +2975,7 @@ module.exports = [
     "lng": "150.5928",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5067",
     "population_proper": "5067"
@@ -2986,7 +2986,7 @@ module.exports = [
     "lng": "142.1881",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "5060",
     "population_proper": "5060"
@@ -2997,7 +2997,7 @@ module.exports = [
     "lng": "150.6267",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5051",
     "population_proper": "5051"
@@ -3008,7 +3008,7 @@ module.exports = [
     "lng": "131.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Northern Territory",
+    "state": "Northern Territory",
     "capital": "",
     "population": "5025",
     "population_proper": "5025"
@@ -3019,7 +3019,7 @@ module.exports = [
     "lng": "150.8511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "5004",
     "population_proper": "5004"
@@ -3030,7 +3030,7 @@ module.exports = [
     "lng": "150.4572",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4974",
     "population_proper": "4974"
@@ -3041,7 +3041,7 @@ module.exports = [
     "lng": "145.5917",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4965",
     "population_proper": "4965"
@@ -3052,7 +3052,7 @@ module.exports = [
     "lng": "147.5822",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4922",
     "population_proper": "4922"
@@ -3063,7 +3063,7 @@ module.exports = [
     "lng": "115.8711",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4910",
     "population_proper": "4910"
@@ -3074,7 +3074,7 @@ module.exports = [
     "lng": "138.6005",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4901",
     "population_proper": "4901"
@@ -3085,7 +3085,7 @@ module.exports = [
     "lng": "138.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4842",
     "population_proper": "4842"
@@ -3096,7 +3096,7 @@ module.exports = [
     "lng": "145.2419",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4839",
     "population_proper": "4839"
@@ -3107,7 +3107,7 @@ module.exports = [
     "lng": "121.4890",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4825",
     "population_proper": "4825"
@@ -3118,7 +3118,7 @@ module.exports = [
     "lng": "150.6011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4816",
     "population_proper": "4816"
@@ -3129,7 +3129,7 @@ module.exports = [
     "lng": "152.0894",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4815",
     "population_proper": "4815"
@@ -3140,7 +3140,7 @@ module.exports = [
     "lng": "147.9833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4810",
     "population_proper": "4810"
@@ -3151,7 +3151,7 @@ module.exports = [
     "lng": "146.0830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4787",
     "population_proper": "4787"
@@ -3162,7 +3162,7 @@ module.exports = [
     "lng": "146.4170",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4783",
     "population_proper": "4783"
@@ -3173,7 +3173,7 @@ module.exports = [
     "lng": "149.1597",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4771",
     "population_proper": "4771"
@@ -3184,7 +3184,7 @@ module.exports = [
     "lng": "151.3550",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4760",
     "population_proper": "4760"
@@ -3195,7 +3195,7 @@ module.exports = [
     "lng": "148.7667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4749",
     "population_proper": "4749"
@@ -3206,7 +3206,7 @@ module.exports = [
     "lng": "140.3524",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4734",
     "population_proper": "4734"
@@ -3217,7 +3217,7 @@ module.exports = [
     "lng": "151.7211",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4705",
     "population_proper": "4705"
@@ -3228,7 +3228,7 @@ module.exports = [
     "lng": "147.5344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4693",
     "population_proper": "4693"
@@ -3239,7 +3239,7 @@ module.exports = [
     "lng": "148.2333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4689",
     "population_proper": "4689"
@@ -3250,7 +3250,7 @@ module.exports = [
     "lng": "153.0833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4675",
     "population_proper": "4675"
@@ -3261,7 +3261,7 @@ module.exports = [
     "lng": "149.8422",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4668",
     "population_proper": "4668"
@@ -3272,7 +3272,7 @@ module.exports = [
     "lng": "146.6808",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4655",
     "population_proper": "4655"
@@ -3283,7 +3283,7 @@ module.exports = [
     "lng": "150.3353",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4644",
     "population_proper": "4644"
@@ -3294,7 +3294,7 @@ module.exports = [
     "lng": "140.7418",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4634",
     "population_proper": "4634"
@@ -3305,7 +3305,7 @@ module.exports = [
     "lng": "153.0403",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4603",
     "population_proper": "4603"
@@ -3316,7 +3316,7 @@ module.exports = [
     "lng": "138.9667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4588",
     "population_proper": "4588"
@@ -3327,7 +3327,7 @@ module.exports = [
     "lng": "137.7125",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4587",
     "population_proper": "2849"
@@ -3338,7 +3338,7 @@ module.exports = [
     "lng": "119.7319",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4567",
     "population_proper": "4567"
@@ -3349,7 +3349,7 @@ module.exports = [
     "lng": "149.1542",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4519",
     "population_proper": "4519"
@@ -3360,7 +3360,7 @@ module.exports = [
     "lng": "136.8785",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4500",
     "population_proper": "3884"
@@ -3371,7 +3371,7 @@ module.exports = [
     "lng": "145.4333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4477",
     "population_proper": "4477"
@@ -3382,7 +3382,7 @@ module.exports = [
     "lng": "145.8167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4469",
     "population_proper": "4469"
@@ -3393,7 +3393,7 @@ module.exports = [
     "lng": "146.7160",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4456",
     "population_proper": "4456"
@@ -3404,7 +3404,7 @@ module.exports = [
     "lng": "145.2330",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4448",
     "population_proper": "4448"
@@ -3415,7 +3415,7 @@ module.exports = [
     "lng": "113.6611",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4426",
     "population_proper": "4426"
@@ -3426,7 +3426,7 @@ module.exports = [
     "lng": "144.7500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4412",
     "population_proper": "4412"
@@ -3437,7 +3437,7 @@ module.exports = [
     "lng": "150.2845",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4396",
     "population_proper": "4396"
@@ -3448,7 +3448,7 @@ module.exports = [
     "lng": "150.5844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4393",
     "population_proper": "4393"
@@ -3459,7 +3459,7 @@ module.exports = [
     "lng": "152.5830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4389",
     "population_proper": "4389"
@@ -3470,7 +3470,7 @@ module.exports = [
     "lng": "146.5511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4375",
     "population_proper": "4375"
@@ -3481,7 +3481,7 @@ module.exports = [
     "lng": "146.1667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4357",
     "population_proper": "4357"
@@ -3492,7 +3492,7 @@ module.exports = [
     "lng": "116.1464",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4349",
     "population_proper": "4349"
@@ -3503,7 +3503,7 @@ module.exports = [
     "lng": "146.8167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "4347",
     "population_proper": "4347"
@@ -3514,7 +3514,7 @@ module.exports = [
     "lng": "151.4180",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4326",
     "population_proper": "4326"
@@ -3525,7 +3525,7 @@ module.exports = [
     "lng": "145.0670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4319",
     "population_proper": "4319"
@@ -3536,7 +3536,7 @@ module.exports = [
     "lng": "144.5667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4275",
     "population_proper": "4275"
@@ -3547,7 +3547,7 @@ module.exports = [
     "lng": "117.1780",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "4274",
     "population_proper": "4274"
@@ -3558,7 +3558,7 @@ module.exports = [
     "lng": "145.4920",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "4256",
     "population_proper": "4256"
@@ -3569,7 +3569,7 @@ module.exports = [
     "lng": "138.6167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4233",
     "population_proper": "4233"
@@ -3580,7 +3580,7 @@ module.exports = [
     "lng": "144.7500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4198",
     "population_proper": "4198"
@@ -3591,7 +3591,7 @@ module.exports = [
     "lng": "149.4511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4178",
     "population_proper": "4178"
@@ -3602,7 +3602,7 @@ module.exports = [
     "lng": "146.4246",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "4169",
     "population_proper": "4169"
@@ -3613,7 +3613,7 @@ module.exports = [
     "lng": "153.0538",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "4112",
     "population_proper": "4112"
@@ -3624,7 +3624,7 @@ module.exports = [
     "lng": "140.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "4103",
     "population_proper": "4088"
@@ -3635,7 +3635,7 @@ module.exports = [
     "lng": "148.9333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4077",
     "population_proper": "4077"
@@ -3646,7 +3646,7 @@ module.exports = [
     "lng": "152.0178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4066",
     "population_proper": "4066"
@@ -3657,7 +3657,7 @@ module.exports = [
     "lng": "150.5678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4046",
     "population_proper": "4046"
@@ -3668,7 +3668,7 @@ module.exports = [
     "lng": "147.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "4029",
     "population_proper": "4029"
@@ -3679,7 +3679,7 @@ module.exports = [
     "lng": "150.5439",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4025",
     "population_proper": "4025"
@@ -3690,7 +3690,7 @@ module.exports = [
     "lng": "151.4960",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "4006",
     "population_proper": "4006"
@@ -3701,7 +3701,7 @@ module.exports = [
     "lng": "145.8319",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3990",
     "population_proper": "3990"
@@ -3712,7 +3712,7 @@ module.exports = [
     "lng": "137.6167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3988",
     "population_proper": "3481"
@@ -3723,7 +3723,7 @@ module.exports = [
     "lng": "150.0806",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3982",
     "population_proper": "3982"
@@ -3734,7 +3734,7 @@ module.exports = [
     "lng": "150.8344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3966",
     "population_proper": "3966"
@@ -3745,7 +3745,7 @@ module.exports = [
     "lng": "153.1233",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3959",
     "population_proper": "3959"
@@ -3756,7 +3756,7 @@ module.exports = [
     "lng": "153.1300",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3950",
     "population_proper": "3950"
@@ -3767,7 +3767,7 @@ module.exports = [
     "lng": "147.2617",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "3920",
     "population_proper": "3920"
@@ -3778,7 +3778,7 @@ module.exports = [
     "lng": "146.1500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3912",
     "population_proper": "3912"
@@ -3789,7 +3789,7 @@ module.exports = [
     "lng": "145.8333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "3903",
     "population_proper": "3903"
@@ -3800,7 +3800,7 @@ module.exports = [
     "lng": "148.9431",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3903",
     "population_proper": "3903"
@@ -3811,7 +3811,7 @@ module.exports = [
     "lng": "141.8667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3899",
     "population_proper": "3899"
@@ -3822,7 +3822,7 @@ module.exports = [
     "lng": "143.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3893",
     "population_proper": "3893"
@@ -3833,7 +3833,7 @@ module.exports = [
     "lng": "151.8333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3885",
     "population_proper": "3885"
@@ -3844,7 +3844,7 @@ module.exports = [
     "lng": "145.1200",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "3881",
     "population_proper": "3881"
@@ -3855,7 +3855,7 @@ module.exports = [
     "lng": "147.1220",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "3863",
     "population_proper": "3863"
@@ -3866,7 +3866,7 @@ module.exports = [
     "lng": "152.8170",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3862",
     "population_proper": "3862"
@@ -3877,7 +3877,7 @@ module.exports = [
     "lng": "146.6869",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3859",
     "population_proper": "3859"
@@ -3888,7 +3888,7 @@ module.exports = [
     "lng": "146.0708",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "3849",
     "population_proper": "3849"
@@ -3899,7 +3899,7 @@ module.exports = [
     "lng": "152.0844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3846",
     "population_proper": "3846"
@@ -3910,7 +3910,7 @@ module.exports = [
     "lng": "140.5669",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3838",
     "population_proper": "3838"
@@ -3921,7 +3921,7 @@ module.exports = [
     "lng": "145.2310",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3821",
     "population_proper": "3821"
@@ -3932,7 +3932,7 @@ module.exports = [
     "lng": "152.9655",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3812",
     "population_proper": "3812"
@@ -3943,7 +3943,7 @@ module.exports = [
     "lng": "152.3938",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3808",
     "population_proper": "3808"
@@ -3954,7 +3954,7 @@ module.exports = [
     "lng": "145.2670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3796",
     "population_proper": "3796"
@@ -3965,7 +3965,7 @@ module.exports = [
     "lng": "153.0960",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3791",
     "population_proper": "3791"
@@ -3976,7 +3976,7 @@ module.exports = [
     "lng": "152.9119",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3791",
     "population_proper": "3791"
@@ -3987,7 +3987,7 @@ module.exports = [
     "lng": "152.9011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3779",
     "population_proper": "3779"
@@ -3998,7 +3998,7 @@ module.exports = [
     "lng": "144.6830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3753",
     "population_proper": "3753"
@@ -4009,7 +4009,7 @@ module.exports = [
     "lng": "153.6178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3750",
     "population_proper": "3750"
@@ -4020,7 +4020,7 @@ module.exports = [
     "lng": "143.8839",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3714",
     "population_proper": "3714"
@@ -4031,7 +4031,7 @@ module.exports = [
     "lng": "151.4561",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3693",
     "population_proper": "3693"
@@ -4042,7 +4042,7 @@ module.exports = [
     "lng": "117.5553",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "3687",
     "population_proper": "3687"
@@ -4053,7 +4053,7 @@ module.exports = [
     "lng": "144.3000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3683",
     "population_proper": "865"
@@ -4064,7 +4064,7 @@ module.exports = [
     "lng": "153.1011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3682",
     "population_proper": "3682"
@@ -4075,7 +4075,7 @@ module.exports = [
     "lng": "150.6094",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3682",
     "population_proper": "3682"
@@ -4086,7 +4086,7 @@ module.exports = [
     "lng": "153.4180",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3667",
     "population_proper": "3667"
@@ -4097,7 +4097,7 @@ module.exports = [
     "lng": "151.2861",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3620",
     "population_proper": "3620"
@@ -4108,7 +4108,7 @@ module.exports = [
     "lng": "144.6500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3619",
     "population_proper": "3619"
@@ -4119,7 +4119,7 @@ module.exports = [
     "lng": "152.0000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3599",
     "population_proper": "3599"
@@ -4130,7 +4130,7 @@ module.exports = [
     "lng": "153.1000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3586",
     "population_proper": "3586"
@@ -4141,7 +4141,7 @@ module.exports = [
     "lng": "145.4890",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3579",
     "population_proper": "3579"
@@ -4152,7 +4152,7 @@ module.exports = [
     "lng": "152.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3576",
     "population_proper": "3576"
@@ -4163,7 +4163,7 @@ module.exports = [
     "lng": "150.5436",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3575",
     "population_proper": "3575"
@@ -4174,7 +4174,7 @@ module.exports = [
     "lng": "148.5814",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3562",
     "population_proper": "3562"
@@ -4185,7 +4185,7 @@ module.exports = [
     "lng": "149.9011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3544",
     "population_proper": "3544"
@@ -4196,7 +4196,7 @@ module.exports = [
     "lng": "152.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3519",
     "population_proper": "3519"
@@ -4207,7 +4207,7 @@ module.exports = [
     "lng": "145.4652",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3504",
     "population_proper": "3504"
@@ -4218,7 +4218,7 @@ module.exports = [
     "lng": "151.3414",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3499",
     "population_proper": "3499"
@@ -4229,7 +4229,7 @@ module.exports = [
     "lng": "138.7680",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3498",
     "population_proper": "3498"
@@ -4240,7 +4240,7 @@ module.exports = [
     "lng": "152.8511",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3494",
     "population_proper": "3494"
@@ -4251,7 +4251,7 @@ module.exports = [
     "lng": "147.1494",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3486",
     "population_proper": "3486"
@@ -4262,7 +4262,7 @@ module.exports = [
     "lng": "147.7167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3480",
     "population_proper": "3480"
@@ -4273,7 +4273,7 @@ module.exports = [
     "lng": "152.7669",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3458",
     "population_proper": "3458"
@@ -4284,7 +4284,7 @@ module.exports = [
     "lng": "144.4336",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3453",
     "population_proper": "3453"
@@ -4295,7 +4295,7 @@ module.exports = [
     "lng": "145.1950",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3450",
     "population_proper": "3450"
@@ -4306,7 +4306,7 @@ module.exports = [
     "lng": "150.6800",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3444",
     "population_proper": "3444"
@@ -4317,7 +4317,7 @@ module.exports = [
     "lng": "152.8513",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3441",
     "population_proper": "3441"
@@ -4328,7 +4328,7 @@ module.exports = [
     "lng": "151.1988",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3438",
     "population_proper": "3438"
@@ -4339,7 +4339,7 @@ module.exports = [
     "lng": "115.7580",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "3410",
     "population_proper": "3410"
@@ -4350,7 +4350,7 @@ module.exports = [
     "lng": "149.0591",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3403",
     "population_proper": "3403"
@@ -4361,7 +4361,7 @@ module.exports = [
     "lng": "149.2500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3378",
     "population_proper": "3378"
@@ -4372,7 +4372,7 @@ module.exports = [
     "lng": "143.1500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3369",
     "population_proper": "3369"
@@ -4383,7 +4383,7 @@ module.exports = [
     "lng": "138.7360",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3361",
     "population_proper": "3361"
@@ -4394,7 +4394,7 @@ module.exports = [
     "lng": "142.2350",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3340",
     "population_proper": "3340"
@@ -4405,7 +4405,7 @@ module.exports = [
     "lng": "145.1890",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3338",
     "population_proper": "3338"
@@ -4416,7 +4416,7 @@ module.exports = [
     "lng": "152.5833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3336",
     "population_proper": "3336"
@@ -4427,7 +4427,7 @@ module.exports = [
     "lng": "146.2383",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3335",
     "population_proper": "3335"
@@ -4438,7 +4438,7 @@ module.exports = [
     "lng": "123.6339",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "3325",
     "population_proper": "3325"
@@ -4449,7 +4449,7 @@ module.exports = [
     "lng": "152.9633",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3321",
     "population_proper": "3321"
@@ -4460,7 +4460,7 @@ module.exports = [
     "lng": "151.6333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3294",
     "population_proper": "3294"
@@ -4471,7 +4471,7 @@ module.exports = [
     "lng": "150.6742",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3290",
     "population_proper": "3290"
@@ -4482,7 +4482,7 @@ module.exports = [
     "lng": "149.2678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3290",
     "population_proper": "3290"
@@ -4493,7 +4493,7 @@ module.exports = [
     "lng": "145.5670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3275",
     "population_proper": "3275"
@@ -4504,7 +4504,7 @@ module.exports = [
     "lng": "149.8667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3256",
     "population_proper": "3256"
@@ -4515,7 +4515,7 @@ module.exports = [
     "lng": "152.9670",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3246",
     "population_proper": "3246"
@@ -4526,7 +4526,7 @@ module.exports = [
     "lng": "136.7819",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Northern Territory",
+    "state": "Northern Territory",
     "capital": "",
     "population": "3240",
     "population_proper": "3240"
@@ -4537,7 +4537,7 @@ module.exports = [
     "lng": "150.6958",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3230",
     "population_proper": "3230"
@@ -4548,7 +4548,7 @@ module.exports = [
     "lng": "149.0261",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3219",
     "population_proper": "3219"
@@ -4559,7 +4559,7 @@ module.exports = [
     "lng": "152.6500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3209",
     "population_proper": "3209"
@@ -4570,7 +4570,7 @@ module.exports = [
     "lng": "150.9844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3206",
     "population_proper": "3206"
@@ -4581,7 +4581,7 @@ module.exports = [
     "lng": "146.6919",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3205",
     "population_proper": "3205"
@@ -4592,7 +4592,7 @@ module.exports = [
     "lng": "144.3500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3201",
     "population_proper": "3201"
@@ -4603,7 +4603,7 @@ module.exports = [
     "lng": "146.7170",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3193",
     "population_proper": "3193"
@@ -4614,7 +4614,7 @@ module.exports = [
     "lng": "145.2020",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3183",
     "population_proper": "3183"
@@ -4625,7 +4625,7 @@ module.exports = [
     "lng": "153.0830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3173",
     "population_proper": "3173"
@@ -4636,7 +4636,7 @@ module.exports = [
     "lng": "153.5000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3172",
     "population_proper": "3172"
@@ -4647,7 +4647,7 @@ module.exports = [
     "lng": "143.9000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3170",
     "population_proper": "3170"
@@ -4658,7 +4658,7 @@ module.exports = [
     "lng": "138.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3160",
     "population_proper": "3160"
@@ -4669,7 +4669,7 @@ module.exports = [
     "lng": "149.9261",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3158",
     "population_proper": "3158"
@@ -4680,7 +4680,7 @@ module.exports = [
     "lng": "149.9011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3151",
     "population_proper": "3151"
@@ -4691,7 +4691,7 @@ module.exports = [
     "lng": "147.2167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3141",
     "population_proper": "3141"
@@ -4702,7 +4702,7 @@ module.exports = [
     "lng": "148.6667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3126",
     "population_proper": "3126"
@@ -4713,7 +4713,7 @@ module.exports = [
     "lng": "144.7000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3113",
     "population_proper": "3113"
@@ -4724,7 +4724,7 @@ module.exports = [
     "lng": "138.5411",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3096",
     "population_proper": "3096"
@@ -4735,7 +4735,7 @@ module.exports = [
     "lng": "143.7570",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3095",
     "population_proper": "3095"
@@ -4746,7 +4746,7 @@ module.exports = [
     "lng": "142.7667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "3088",
     "population_proper": "3088"
@@ -4757,7 +4757,7 @@ module.exports = [
     "lng": "150.7011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3080",
     "population_proper": "3080"
@@ -4768,7 +4768,7 @@ module.exports = [
     "lng": "152.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3073",
     "population_proper": "3073"
@@ -4779,7 +4779,7 @@ module.exports = [
     "lng": "153.5594",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3060",
     "population_proper": "3060"
@@ -4790,7 +4790,7 @@ module.exports = [
     "lng": "150.7417",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3059",
     "population_proper": "3059"
@@ -4801,7 +4801,7 @@ module.exports = [
     "lng": "148.5797",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3048",
     "population_proper": "3048"
@@ -4812,7 +4812,7 @@ module.exports = [
     "lng": "138.8500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "3044",
     "population_proper": "3044"
@@ -4823,7 +4823,7 @@ module.exports = [
     "lng": "147.6383",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3031",
     "population_proper": "3031"
@@ -4834,7 +4834,7 @@ module.exports = [
     "lng": "147.4139",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3027",
     "population_proper": "2954"
@@ -4845,7 +4845,7 @@ module.exports = [
     "lng": "151.3000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3026",
     "population_proper": "3026"
@@ -4856,7 +4856,7 @@ module.exports = [
     "lng": "145.6369",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "3008",
     "population_proper": "3008"
@@ -4867,7 +4867,7 @@ module.exports = [
     "lng": "150.8410",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3007",
     "population_proper": "3007"
@@ -4878,7 +4878,7 @@ module.exports = [
     "lng": "117.7950",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "3005",
     "population_proper": "3005"
@@ -4889,7 +4889,7 @@ module.exports = [
     "lng": "153.0167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "3000",
     "population_proper": "3000"
@@ -4900,7 +4900,7 @@ module.exports = [
     "lng": "148.3508",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2991",
     "population_proper": "2991"
@@ -4911,7 +4911,7 @@ module.exports = [
     "lng": "115.5880",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2990",
     "population_proper": "2990"
@@ -4922,7 +4922,7 @@ module.exports = [
     "lng": "144.2290",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2985",
     "population_proper": "2985"
@@ -4933,7 +4933,7 @@ module.exports = [
     "lng": "151.9603",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2975",
     "population_proper": "2975"
@@ -4944,7 +4944,7 @@ module.exports = [
     "lng": "152.8344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2971",
     "population_proper": "2971"
@@ -4955,7 +4955,7 @@ module.exports = [
     "lng": "144.2491",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2970",
     "population_proper": "2970"
@@ -4966,7 +4966,7 @@ module.exports = [
     "lng": "138.7060",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2966",
     "population_proper": "2966"
@@ -4977,7 +4977,7 @@ module.exports = [
     "lng": "147.1714",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "2965",
     "population_proper": "2965"
@@ -4988,7 +4988,7 @@ module.exports = [
     "lng": "140.7702",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2953",
     "population_proper": "2953"
@@ -4999,7 +4999,7 @@ module.exports = [
     "lng": "138.5914",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2947",
     "population_proper": "2947"
@@ -5010,7 +5010,7 @@ module.exports = [
     "lng": "115.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2934",
     "population_proper": "2934"
@@ -5021,7 +5021,7 @@ module.exports = [
     "lng": "115.7350",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2932",
     "population_proper": "2932"
@@ -5032,7 +5032,7 @@ module.exports = [
     "lng": "153.5025",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2926",
     "population_proper": "2926"
@@ -5043,7 +5043,7 @@ module.exports = [
     "lng": "138.9167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2917",
     "population_proper": "2917"
@@ -5054,7 +5054,7 @@ module.exports = [
     "lng": "145.5280",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2913",
     "population_proper": "2913"
@@ -5065,7 +5065,7 @@ module.exports = [
     "lng": "150.6269",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2913",
     "population_proper": "2913"
@@ -5076,7 +5076,7 @@ module.exports = [
     "lng": "152.8564",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2910",
     "population_proper": "2910"
@@ -5087,7 +5087,7 @@ module.exports = [
     "lng": "147.5625",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "2907",
     "population_proper": "2907"
@@ -5098,7 +5098,7 @@ module.exports = [
     "lng": "152.1594",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2884",
     "population_proper": "2884"
@@ -5109,7 +5109,7 @@ module.exports = [
     "lng": "150.7539",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2874",
     "population_proper": "2874"
@@ -5120,7 +5120,7 @@ module.exports = [
     "lng": "145.3719",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2869",
     "population_proper": "2869"
@@ -5131,7 +5131,7 @@ module.exports = [
     "lng": "145.4150",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2861",
     "population_proper": "2861"
@@ -5142,7 +5142,7 @@ module.exports = [
     "lng": "151.5011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2857",
     "population_proper": "2857"
@@ -5153,7 +5153,7 @@ module.exports = [
     "lng": "144.2000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2853",
     "population_proper": "2853"
@@ -5164,7 +5164,7 @@ module.exports = [
     "lng": "118.2790",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2850",
     "population_proper": "2850"
@@ -5175,7 +5175,7 @@ module.exports = [
     "lng": "146.6667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "2848",
     "population_proper": "2848"
@@ -5186,7 +5186,7 @@ module.exports = [
     "lng": "153.4344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2847",
     "population_proper": "2847"
@@ -5197,7 +5197,7 @@ module.exports = [
     "lng": "152.5830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2834",
     "population_proper": "2834"
@@ -5208,7 +5208,7 @@ module.exports = [
     "lng": "151.3844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2830",
     "population_proper": "2830"
@@ -5219,7 +5219,7 @@ module.exports = [
     "lng": "153.4011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2828",
     "population_proper": "2828"
@@ -5230,7 +5230,7 @@ module.exports = [
     "lng": "115.8200",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2824",
     "population_proper": "2824"
@@ -5241,7 +5241,7 @@ module.exports = [
     "lng": "144.9281",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2823",
     "population_proper": "2823"
@@ -5252,7 +5252,7 @@ module.exports = [
     "lng": "138.6470",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2818",
     "population_proper": "2818"
@@ -5263,7 +5263,7 @@ module.exports = [
     "lng": "116.1381",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2812",
     "population_proper": "2812"
@@ -5274,7 +5274,7 @@ module.exports = [
     "lng": "145.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2806",
     "population_proper": "2806"
@@ -5285,7 +5285,7 @@ module.exports = [
     "lng": "144.7000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2793",
     "population_proper": "2793"
@@ -5296,7 +5296,7 @@ module.exports = [
     "lng": "146.6344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2777",
     "population_proper": "2777"
@@ -5307,7 +5307,7 @@ module.exports = [
     "lng": "138.8884",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2755",
     "population_proper": "2755"
@@ -5318,7 +5318,7 @@ module.exports = [
     "lng": "115.8900",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2750",
     "population_proper": "2750"
@@ -5329,7 +5329,7 @@ module.exports = [
     "lng": "148.3678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2750",
     "population_proper": "2750"
@@ -5340,7 +5340,7 @@ module.exports = [
     "lng": "151.4956",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2743",
     "population_proper": "2743"
@@ -5351,7 +5351,7 @@ module.exports = [
     "lng": "150.2994",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2729",
     "population_proper": "2729"
@@ -5362,7 +5362,7 @@ module.exports = [
     "lng": "140.5000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2719",
     "population_proper": "2719"
@@ -5373,7 +5373,7 @@ module.exports = [
     "lng": "145.4788",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2718",
     "population_proper": "2718"
@@ -5384,7 +5384,7 @@ module.exports = [
     "lng": "147.0333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "2714",
     "population_proper": "2714"
@@ -5395,7 +5395,7 @@ module.exports = [
     "lng": "142.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2713",
     "population_proper": "2713"
@@ -5406,7 +5406,7 @@ module.exports = [
     "lng": "145.7100",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2695",
     "population_proper": "2695"
@@ -5417,7 +5417,7 @@ module.exports = [
     "lng": "139.9833",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2684",
     "population_proper": "2684"
@@ -5428,7 +5428,7 @@ module.exports = [
     "lng": "144.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2684",
     "population_proper": "2684"
@@ -5439,7 +5439,7 @@ module.exports = [
     "lng": "150.4917",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2674",
     "population_proper": "2674"
@@ -5450,7 +5450,7 @@ module.exports = [
     "lng": "137.8333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2673",
     "population_proper": "2673"
@@ -5461,7 +5461,7 @@ module.exports = [
     "lng": "138.8076",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2670",
     "population_proper": "2670"
@@ -5472,7 +5472,7 @@ module.exports = [
     "lng": "150.7011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2667",
     "population_proper": "2667"
@@ -5483,7 +5483,7 @@ module.exports = [
     "lng": "152.4000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2656",
     "population_proper": "2656"
@@ -5494,7 +5494,7 @@ module.exports = [
     "lng": "152.2388",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2650",
     "population_proper": "2650"
@@ -5505,7 +5505,7 @@ module.exports = [
     "lng": "150.4089",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2645",
     "population_proper": "2645"
@@ -5516,7 +5516,7 @@ module.exports = [
     "lng": "139.3044",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2644",
     "population_proper": "2644"
@@ -5527,7 +5527,7 @@ module.exports = [
     "lng": "116.3140",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2642",
     "population_proper": "2642"
@@ -5538,7 +5538,7 @@ module.exports = [
     "lng": "149.4678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2641",
     "population_proper": "2641"
@@ -5549,7 +5549,7 @@ module.exports = [
     "lng": "150.7844",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2633",
     "population_proper": "2633"
@@ -5560,7 +5560,7 @@ module.exports = [
     "lng": "152.9944",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2633",
     "population_proper": "2633"
@@ -5571,7 +5571,7 @@ module.exports = [
     "lng": "145.2515",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2631",
     "population_proper": "2631"
@@ -5582,7 +5582,7 @@ module.exports = [
     "lng": "148.6178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2629",
     "population_proper": "2629"
@@ -5593,7 +5593,7 @@ module.exports = [
     "lng": "153.2011",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2628",
     "population_proper": "2628"
@@ -5604,7 +5604,7 @@ module.exports = [
     "lng": "147.0830",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2617",
     "population_proper": "2617"
@@ -5615,7 +5615,7 @@ module.exports = [
     "lng": "150.4322",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2614",
     "population_proper": "2614"
@@ -5626,7 +5626,7 @@ module.exports = [
     "lng": "142.2200",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2610",
     "population_proper": "2610"
@@ -5637,7 +5637,7 @@ module.exports = [
     "lng": "138.8742",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2608",
     "population_proper": "2608"
@@ -5648,7 +5648,7 @@ module.exports = [
     "lng": "150.1333",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2605",
     "population_proper": "2605"
@@ -5659,7 +5659,7 @@ module.exports = [
     "lng": "152.9172",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2598",
     "population_proper": "2598"
@@ -5670,7 +5670,7 @@ module.exports = [
     "lng": "148.8561",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2577",
     "population_proper": "2577"
@@ -5681,7 +5681,7 @@ module.exports = [
     "lng": "148.1950",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2573",
     "population_proper": "2573"
@@ -5692,7 +5692,7 @@ module.exports = [
     "lng": "145.8703",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2559",
     "population_proper": "2559"
@@ -5703,7 +5703,7 @@ module.exports = [
     "lng": "117.3531",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2558",
     "population_proper": "2558"
@@ -5714,7 +5714,7 @@ module.exports = [
     "lng": "153.0500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2554",
     "population_proper": "2554"
@@ -5725,7 +5725,7 @@ module.exports = [
     "lng": "151.6000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2553",
     "population_proper": "2553"
@@ -5736,7 +5736,7 @@ module.exports = [
     "lng": "150.7178",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2550",
     "population_proper": "2550"
@@ -5747,7 +5747,7 @@ module.exports = [
     "lng": "145.6060",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2549",
     "population_proper": "2549"
@@ -5758,7 +5758,7 @@ module.exports = [
     "lng": "144.1500",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2548",
     "population_proper": "2548"
@@ -5769,7 +5769,7 @@ module.exports = [
     "lng": "116.7686",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2548",
     "population_proper": "2535"
@@ -5780,7 +5780,7 @@ module.exports = [
     "lng": "144.1869",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2545",
     "population_proper": "2545"
@@ -5791,7 +5791,7 @@ module.exports = [
     "lng": "121.6700",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2539",
     "population_proper": "2539"
@@ -5802,7 +5802,7 @@ module.exports = [
     "lng": "138.8667",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "South Australia",
+    "state": "South Australia",
     "capital": "",
     "population": "2527",
     "population_proper": "2527"
@@ -5813,7 +5813,7 @@ module.exports = [
     "lng": "150.5678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2525",
     "population_proper": "2525"
@@ -5824,7 +5824,7 @@ module.exports = [
     "lng": "149.5344",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2521",
     "population_proper": "2521"
@@ -5835,7 +5835,7 @@ module.exports = [
     "lng": "145.5678",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2519",
     "population_proper": "2519"
@@ -5846,7 +5846,7 @@ module.exports = [
     "lng": "115.5700",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2509",
     "population_proper": "2509"
@@ -5857,7 +5857,7 @@ module.exports = [
     "lng": "153.1156",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2488",
     "population_proper": "2488"
@@ -5868,7 +5868,7 @@ module.exports = [
     "lng": "114.1281",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2486",
     "population_proper": "2486"
@@ -5879,7 +5879,7 @@ module.exports = [
     "lng": "152.6816",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2484",
     "population_proper": "2484"
@@ -5890,7 +5890,7 @@ module.exports = [
     "lng": "144.7167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2480",
     "population_proper": "2480"
@@ -5901,7 +5901,7 @@ module.exports = [
     "lng": "115.3000",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Western Australia",
+    "state": "Western Australia",
     "capital": "",
     "population": "2479",
     "population_proper": "2479"
@@ -5912,7 +5912,7 @@ module.exports = [
     "lng": "151.3803",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "New South Wales",
+    "state": "New South Wales",
     "capital": "",
     "population": "2473",
     "population_proper": "2473"
@@ -5923,7 +5923,7 @@ module.exports = [
     "lng": "145.7170",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2468",
     "population_proper": "2468"
@@ -5934,7 +5934,7 @@ module.exports = [
     "lng": "147.6194",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "",
     "population": "2467",
     "population_proper": "2467"
@@ -5945,7 +5945,7 @@ module.exports = [
     "lng": "144.7167",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Victoria",
+    "state": "Victoria",
     "capital": "",
     "population": "2455",
     "population_proper": "2455"
@@ -5956,7 +5956,7 @@ module.exports = [
     "lng": "146.5794",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Queensland",
+    "state": "Queensland",
     "capital": "",
     "population": "2455",
     "population_proper": "2455"
@@ -5967,7 +5967,7 @@ module.exports = [
     "lng": "143.8510",
     "country": "Australia",
     "iso2": "AU",
-    "admin_name": "Tasmania",
+    "state": "Tasmania",
     "capital": "minor",
     "population": "768",
     "population_proper": "768"
